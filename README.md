@@ -53,3 +53,7 @@ Bu proje eğitim amaçlıdır. Katkıda bulunmak için lütfen bir pull request 
 ---
 
 **Not:** Bu uygulama tıbbi teşhis amacıyla kullanılmamalıdır. Sonuçlar yalnızca bilgilendirme amaçlıdır.
+
+## Geliştirici
+
+- [Berkay Seyman](https://github.com/symNistaken)
